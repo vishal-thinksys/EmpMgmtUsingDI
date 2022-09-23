@@ -1,0 +1,11 @@
+[
+  {
+    "EmpID": 1,
+    "Name": "Vishal Kumar",
+    "DOB": "03-15-2001",
+    "EmailId": "kumar.vishal@thinksys.com",
+    "MobileNo": "6299193573",
+    "Salary": 20000.0,
+    "DOJ": "09-13-2022"
+  }
+]
